@@ -1,69 +1,164 @@
-<!-- Profile README - Togi Samuel Simarmata -->
+# 👋 Hey, I'm Sam!
 
-<h1 align="center">Hi there, I'm Togi 👋</h1>
-<h3 align="center">💻 Software Engineer | 📱 Mobile & Web Developer | 🎨 UI/UX Designer</h3>
+### `Software Engineer` · `Backend Developer` · `Mobile Developer` ,  `Bot Developer`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-42A5F5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Development-Web%20%26%20Mobile-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Discord%20Bots-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</p>
+
+I'm an Informatics student and developer from Indonesia who enjoys building practical software, backend systems, automation tools, and interactive applications.
+
+I love exploring how things work behind the scenes — from designing database structures and authentication systems to building intelligent Discord bots and connecting different platforms.
+
+- 🔭 Currently building web applications, backend systems, and Discord bots.
+- 🛠️ Interested in backend engineering, automation, and system architecture.
+- 🤖 Exploring AI-powered applications and Discord bot development.
+- 🎮 Building community tools with Discord and Roblox integrations.
+- 🎨 Interested in UI/UX design and creating better user experiences.
+- 🌱 Always learning, experimenting, and improving my development skills.
+
+---
+
+## 🧰 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,kotlin,js,html,css,luau" alt="Programming languages" />
+</p>
+
+### Backend, Databases & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,firebase" alt="Backend and databases" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma" alt="Development tools" />
+</p>
+
+### Areas of Interest
+
+`Backend Engineering` · `REST APIs` · `Authentication` · `Database Design` · `Discord Bots` · `AI Integration` · `Mobile Development` · `Web Development` · `UI/UX Design`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Discord Voice Guard Bot
+
+A Discord bot project focused on voice channel protection, monitoring, and server moderation.
+
+- Voice channel management and monitoring.
+- Automated protection and moderation workflows.
+- Tools to help maintain an organized voice chat environment.
+
+**Tech:** `JavaScript` `Node.js` `Discord.js`
+
+### 🤖 Discord AI Bot
+
+An AI-powered Discord bot project designed to bring intelligent conversations and interactive features into Discord communities.
+
+- AI-powered conversational interactions.
+- Automated responses and command handling.
+- Integration between Discord and AI services.
+
+**Tech:** `JavaScript` `Node.js` `Discord.js` `AI APIs`
+
+### 🎮 Roblox Verification System
+
+A Discord and Roblox integration project designed to help communities verify Roblox identities and manage server access.
+
+- Roblox account verification workflow.
+- Discord role management after successful verification.
+- Account linking to support community identity checks.
+
+**Tech:** `JavaScript` `Node.js` `Discord.js` `Roblox Integration`
+
+### 📄 CVCraft — CV Builder & Career Platform
+
+A web-based CV creation platform designed to help students, fresh graduates, and job seekers create professional CVs and showcase their qualifications.
+
+- Backend development using PHP and MySQL.
+- CV data management and profile customization.
+- CV preview and export functionality.
+- Public CV discovery and user interaction features.
+
+**Tech:** `PHP` `MySQL` `Web Development`
+
+### 🌐 Elysium — Web Application
+
+A web application project focused on user authentication, session handling, and role-based access management.
+
+- Username-based authentication.
+- Secure password hashing.
+- Session management.
+- Role-based access control.
+
+**Tech:** `Node.js` `JavaScript` `Web Security`
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Crafting+Code+%26+Designs+with+Passion;Let's+build+something+awesome+🚀" alt="Typing SVG" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luckystar28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckystar28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=luckystar28&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luckystar28&style=flat-square&color=42A5F5&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Student at **Telkom University**, RPLA '22  
-- 💡 Always curious about **clean code, backend engineering, and UX**  
-- 💻 Tech Stack: `Java`, `Kotlin`, `PHP/Laravel`, `JavaScript`, `MongoDB`, `MySQL`  
-- 🛠 Skilled in designing apps using **Figma**  
-- 🚀 Currently learning more about **SAP & scalable backend systems**  
-- ✨ I enjoy building projects that solve real-world problems
+## 💡 My Development Principles
+
+- **Clean Code** — Write code that is readable, maintainable, and easy to understand.
+- **Problem Solving** — Focus on practical solutions rather than unnecessary complexity.
+- **Security First** — Consider authentication, authorization, and data protection when designing systems.
+- **Continuous Learning** — Keep exploring new technologies and improving existing skills.
+- **User-Centered Design** — Build applications that are useful, intuitive, and accessible.
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🎯 Currently Exploring
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,php,laravel,javascript,mysql,mongodb,figma,androidstudio,vscode,git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=togisam&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=togisam&theme=tokyonight&hide_border=true" />
-</div>
+- Advanced backend development and API design.
+- AI integrations for real-world applications.
+- Discord bot automation and community management.
+- Database optimization and application security.
+- Better software architecture and maintainable codebases.
 
 ---
 
-### 📌 Featured Projects
-<!-- Replace with your best repos -->
-- 🔗 [My E-commerce Laravel App](https://github.com/togisam/laravel-ecommerce)
-- 🔗 [Simple Android Note App](https://github.com/togisam/android-noteapp)
-- 🔗 [UI Kit with Figma Design](https://github.com/togisam/figma-ui-kit)
+## 🤝 Let's Connect
 
----
+I'm open to collaborating on interesting software projects, learning from other developers, and exploring new opportunities in software engineering.
 
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/togi-samuel-simarmata-a79166259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+<p align="left">
+  <a href="https://github.com/luckystar28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:togi.simarmata@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/togisam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <i>"Build with purpose. Learn continuously. Improve every day."</i>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=togisam&theme=tokyonight&margin-w=15&no-frame=true" />
+  ⭐ Thanks for visiting my profile!
 </p>
