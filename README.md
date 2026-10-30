@@ -3,17 +3,19 @@
 ### Software Engineer · Backend Developer · Mobile Developer · Bot Developer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-42A5F5?style=flat-square" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/Development-Web%20%26%20Mobile-FF9800?style=flat-square" alt="Web and Mobile Development" />
-  <img src="https://img.shields.io/badge/Building-Discord%20Bots-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Bots" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-42A5F5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Development-Web%20%26%20Mobile-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Discord%20Bots-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Integration-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
 I'm an Informatics student and developer from Indonesia who enjoys building practical software, backend systems, automation tools, and interactive applications.
 
-I love exploring how things work behind the scenes — from designing database structures and authentication systems to building Discord bots and connecting different platforms.
+I specialize in backend development, JavaScript applications, and integrating third-party APIs into Node.js applications to build functional web services, automation tools, and Discord bots.
 
-- 🔭 Currently building web applications, backend systems, and Discord bots.
-- 🛠️ Interested in backend engineering, automation, and system architecture.
+- 🔭 Building web applications, backend systems, and Discord bots.
+- ⚙️ Developing Node.js applications powered by third-party APIs.
+- 🔗 Integrating external APIs and transforming their data into useful application features.
 - 🤖 Exploring AI-powered applications and Discord bot development.
 - 🎮 Building community tools with Discord and Roblox integrations.
 - 📱 Interested in Android development and mobile applications.
@@ -30,11 +32,19 @@ I love exploring how things work behind the scenes — from designing database s
   <img src="https://skillicons.dev/icons?i=php,java,kotlin,js,html,css,luau" alt="Programming Languages" />
 </p>
 
-### Backend & Databases
+### Backend, APIs & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,firebase" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend, APIs, and Databases" />
 </p>
+
+### API Integration & Backend Development
+
+- **Third-Party API Integration** — Connecting external services to Node.js applications.
+- **JavaScript & Node.js** — Building server-side applications and API-driven web services.
+- **REST API Consumption** — Fetching, processing, and presenting data from external endpoints.
+- **JSON Data Processing** — Transforming API responses into application-ready data.
+- **Discord Bot Development** — Integrating external services into interactive Discord bots.
 
 ### Tools & Platforms
 
@@ -44,7 +54,7 @@ I love exploring how things work behind the scenes — from designing database s
 
 ### Areas of Interest
 
-`Backend Engineering` · `REST APIs` · `Authentication` · `Database Design` · `Discord Bots` · `AI Integration` · `Mobile Development` · `Web Development` · `UI/UX Design`
+`Backend Engineering` · `Node.js` · `JavaScript` · `Third-Party API Integration` · `REST APIs` · `JSON` · `Database Design` · `Discord Bots` · `AI Integration` · `Mobile Development` · `UI/UX Design`
 
 ---
 
